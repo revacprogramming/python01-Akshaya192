@@ -1,3 +1,6 @@
 # Why Program
 
-print("hello world")
+a="Hello"
+b="There"
+c=a+b
+print(c)
