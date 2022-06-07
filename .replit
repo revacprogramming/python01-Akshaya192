@@ -1,4 +1,1 @@
-a=hello
-b=there
-c=a+b
-print(c)
+run=""
