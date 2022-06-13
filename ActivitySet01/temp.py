@@ -41,4 +41,19 @@ fruit = 'banana'
 'nan' in fruit
 if 'a' in fruit:
   print('Found it!')
-
+  c='Reva cse@bangalore new'
+  atpose=c.find('@')
+  print(atpose)
+  sopse=c.find(' ',atpose)
+  print(sopse)
+  host=c[atpose+1 : sopse]
+  print(host)
+  names=['5','x','xyz']
+  for name in names :
+      print('Happy weekend:', name)
+  print('empty!')  
+  for x in names:
+      print('GOOD DAY:',x)
+  print('smile!')
+  print(names[1])
+  print(names[2])
